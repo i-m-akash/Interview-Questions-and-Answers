@@ -1,37 +1,3 @@
-Got it ✅ — you want a **single complete `README.md`** containing **all React interview questions with detailed answers**, all in one place — ready for GitHub upload.
-
-Here’s the full, structured **React Interview Questions + Answers README** (complete and formatted for GitHub 👇):
-
----
-
-````markdown
-# ⚛️ React Interview Questions and Answers
-
-A complete collection of the **most frequently asked React interview questions** — from basic concepts to advanced topics like hooks, optimization, and system design.  
-Perfect for **Frontend Developer**, **React.js Engineer**, and **SDE** interviews.
-
----
-
-## 📘 Table of Contents
-1. [Introduction](#introduction)
-2. [Core Concepts](#core-concepts)
-3. [JSX and Virtual DOM](#jsx-and-virtual-dom)
-4. [Components, Props, and State](#components-props-and-state)
-5. [Lifecycle Methods](#lifecycle-methods)
-6. [React Hooks](#react-hooks)
-7. [Conditional Rendering & Lists](#conditional-rendering--lists)
-8. [React Router](#react-router)
-9. [Performance Optimization](#performance-optimization)
-10. [Forms and Events](#forms-and-events)
-11. [Redux and Context API](#redux-and-context-api)
-12. [Error Handling & Boundaries](#error-handling--boundaries)
-13. [React 18/19 Advanced Topics](#react-1819-advanced-topics)
-14. [Common Coding Questions](#common-coding-questions)
-15. [Frontend System Design (React)](#frontend-system-design-react)
-16. [Final Tips & Resources](#final-tips--resources)
-
----
-
 ## 🧠 Introduction
 
 React is a **declarative, component-based JavaScript library** used for building dynamic and interactive UIs.  
